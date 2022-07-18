@@ -14,6 +14,10 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.47);
 }
+
+img.lado {
+    float: right;
+}  
 h1 {
     font-size: 2em;
     color: blueviolet;
@@ -21,8 +25,4 @@ h1 {
 h2 {
     font-size: 1.5em;
     color: blueviolet;
-}
-img.lado {
-    float: right;
-    
-}
+}    
